@@ -7,7 +7,7 @@
     <Description>.NET Library to test Nuget Publish.</Description>
     <Authors>cdoyle-kx</Authors>
     <Owners>cdoyle-kx</Owners>	
-    <RepositoryUrl>https://github.com/cdoyle-kx/TestPublish</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/cdoyle-kx/TestPublish</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
