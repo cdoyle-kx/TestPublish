@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
-	<metadata>        
-    <id>TestPublish</id>
-    <version>0.0.0</version>
-    <description>.NET Library to test Nuget Publish</description>
-    <authors>cdoyle-kx</authors>
-  </metadata>  
-</package>
