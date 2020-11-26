@@ -9,6 +9,8 @@
     <Owners>cdoyle-kx</Owners>	
     <PackageProjectUrl>https://github.com/cdoyle-kx/TestPublish</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdoyle-kx/TestPublish</RepositoryUrl>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>TestPublish.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
