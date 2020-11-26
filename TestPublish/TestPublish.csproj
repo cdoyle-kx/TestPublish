@@ -8,6 +8,7 @@
     <Authors>cdoyle-kx</Authors>
     <Owners>cdoyle-kx</Owners>	
     <PackageProjectUrl>https://github.com/cdoyle-kx/TestPublish</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cdoyle-kx/TestPublish</RepositoryUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
